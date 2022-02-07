@@ -1,0 +1,1387 @@
+[{
+  "_id": {
+    "$oid": "61f8bcb22f1970147448616d"
+  },
+  "project_name": "commons-math",
+  "project_id": {
+    "$oid": "58bfd5860da3ef7cef464c78"
+  },
+  "commit_id": {
+    "$oid": "5a85633a77d2b433df71c3d2"
+  },
+  "linked_fixed_szz": 287,
+  "linked_fixed_notSzz": 486,
+  "linked_notFixed_szz": 5,
+  "linked_notFixed_notSzz": 292,
+  "notLinked_fixed_szz": 0,
+  "notLinked_fixed_notSzz": 0,
+  "notLinked_notFixed_szz": 4
+},{
+  "_id": {
+    "$oid": "61f8bcb32f1970147448616e"
+  },
+  "project_name": "ant-ivy",
+  "project_id": {
+    "$oid": "58c8979e0da3ef6363ccb8de"
+  },
+  "commit_id": {
+    "$oid": "5a82f5fa912063217d88f271"
+  },
+  "linked_fixed_szz": 531,
+  "linked_fixed_notSzz": 70,
+  "linked_notFixed_szz": 11,
+  "linked_notFixed_notSzz": 308,
+  "notLinked_fixed_szz": 2,
+  "notLinked_fixed_notSzz": 0,
+  "notLinked_notFixed_szz": 10
+},{
+  "_id": {
+    "$oid": "61f8bcb62f1970147448616f"
+  },
+  "project_name": "kafka",
+  "project_id": {
+    "$oid": "5b0fa95e0da3ef431af80833"
+  },
+  "commit_id": {
+    "$oid": "5b0fc443065f3902118e3009"
+  },
+  "linked_fixed_szz": 0,
+  "linked_fixed_notSzz": 0,
+  "linked_notFixed_szz": 1733,
+  "linked_notFixed_notSzz": 1516,
+  "notLinked_fixed_szz": 0,
+  "notLinked_fixed_notSzz": 0,
+  "notLinked_notFixed_szz": 1050
+},{
+  "_id": {
+    "$oid": "61f8bcb72f19701474486170"
+  },
+  "project_name": "zeppelin",
+  "project_id": {
+    "$oid": "5b110ee90da3ef05a99f0de6"
+  },
+  "commit_id": {
+    "$oid": "5b110fa1e5cffa4698f4d4d1"
+  },
+  "linked_fixed_szz": 0,
+  "linked_fixed_notSzz": 0,
+  "linked_notFixed_szz": 738,
+  "linked_notFixed_notSzz": 1093,
+  "notLinked_fixed_szz": 0,
+  "notLinked_fixed_notSzz": 0,
+  "notLinked_notFixed_szz": 439
+},{
+  "_id": {
+    "$oid": "61f8bcb92f19701474486171"
+  },
+  "project_name": "mahout",
+  "project_id": {
+    "$oid": "5b1f9fbb0da3ef49b7d0a480"
+  },
+  "commit_id": {
+    "$oid": "5b1fa0c81837be5c9c25fce9"
+  },
+  "linked_fixed_szz": 514,
+  "linked_fixed_notSzz": 686,
+  "linked_notFixed_szz": 4,
+  "linked_notFixed_notSzz": 116,
+  "notLinked_fixed_szz": 5,
+  "notLinked_fixed_notSzz": 1,
+  "notLinked_notFixed_szz": 107
+},{
+  "_id": {
+    "$oid": "61f8bcbc2f19701474486172"
+  },
+  "project_name": "struts",
+  "project_id": {
+    "$oid": "5b2225520da3ef3e52ece5e2"
+  },
+  "commit_id": {
+    "$oid": "5b23e0eea1501a2548d16dd5"
+  },
+  "linked_fixed_szz": 0,
+  "linked_fixed_notSzz": 0,
+  "linked_notFixed_szz": 926,
+  "linked_notFixed_notSzz": 876,
+  "notLinked_fixed_szz": 0,
+  "notLinked_fixed_notSzz": 0,
+  "notLinked_notFixed_szz": 33
+},{
+  "_id": {
+    "$oid": "61f8bcbd2f19701474486173"
+  },
+  "project_name": "opennlp",
+  "project_id": {
+    "$oid": "5b27c4cc0da3ef789daec0a1"
+  },
+  "commit_id": {
+    "$oid": "5b27c67aeee553716477e356"
+  },
+  "linked_fixed_szz": 223,
+  "linked_fixed_notSzz": 502,
+  "linked_notFixed_szz": 0,
+  "linked_notFixed_notSzz": 62,
+  "notLinked_fixed_szz": 0,
+  "notLinked_fixed_notSzz": 0,
+  "notLinked_notFixed_szz": 32
+},{
+  "_id": {
+    "$oid": "61f8bcbf2f19701474486174"
+  },
+  "project_name": "pig",
+  "project_id": {
+    "$oid": "5b2903690da3ef789cc240ea"
+  },
+  "commit_id": {
+    "$oid": "5b290414a096a05e0dd285ce"
+  },
+  "linked_fixed_szz": 0,
+  "linked_fixed_notSzz": 0,
+  "linked_notFixed_szz": 1633,
+  "linked_notFixed_notSzz": 1190,
+  "notLinked_fixed_szz": 0,
+  "notLinked_fixed_notSzz": 0,
+  "notLinked_notFixed_szz": 43
+},{
+  "_id": {
+    "$oid": "61f8bcc02f19701474486175"
+  },
+  "project_name": "calcite",
+  "project_id": {
+    "$oid": "5b34a9210da3ef789cc240ec"
+  },
+  "commit_id": {
+    "$oid": "5b34a9f9e586ab679233f352"
+  },
+  "linked_fixed_szz": 800,
+  "linked_fixed_notSzz": 399,
+  "linked_notFixed_szz": 21,
+  "linked_notFixed_notSzz": 45,
+  "notLinked_fixed_szz": 0,
+  "notLinked_fixed_notSzz": 4,
+  "notLinked_notFixed_szz": 239
+},{
+  "_id": {
+    "$oid": "61f8bcc22f19701474486176"
+  },
+  "project_name": "cayenne",
+  "project_id": {
+    "$oid": "5b3b2d520da3ef789ec953ea"
+  },
+  "commit_id": {
+    "$oid": "5b3b38dd7c2cb055506a6506"
+  },
+  "linked_fixed_szz": 532,
+  "linked_fixed_notSzz": 633,
+  "linked_notFixed_szz": 3,
+  "linked_notFixed_notSzz": 97,
+  "notLinked_fixed_szz": 0,
+  "notLinked_fixed_notSzz": 3,
+  "notLinked_notFixed_szz": 165
+},{
+  "_id": {
+    "$oid": "61f8bcc32f19701474486177"
+  },
+  "project_name": "falcon",
+  "project_id": {
+    "$oid": "5b4329280da3ef07116c76f0"
+  },
+  "commit_id": {
+    "$oid": "5b432b7dc335c758c99dde14"
+  },
+  "linked_fixed_szz": 684,
+  "linked_fixed_notSzz": 519,
+  "linked_notFixed_szz": 77,
+  "linked_notFixed_notSzz": 104,
+  "notLinked_fixed_szz": 0,
+  "notLinked_fixed_notSzz": 0,
+  "notLinked_notFixed_szz": 194
+},{
+  "_id": {
+    "$oid": "61f8bcc82f19701474486178"
+  },
+  "project_name": "kylin",
+  "project_id": {
+    "$oid": "5b43728b0da3ef07106a790f"
+  },
+  "commit_id": {
+    "$oid": "5b437f6c6d2aba305a4ad2d4"
+  },
+  "linked_fixed_szz": 726,
+  "linked_fixed_notSzz": 963,
+  "linked_notFixed_szz": 13,
+  "linked_notFixed_notSzz": 120,
+  "notLinked_fixed_szz": 4,
+  "notLinked_fixed_notSzz": 16,
+  "notLinked_notFixed_szz": 25
+},{
+  "_id": {
+    "$oid": "61f8bcc92f19701474486179"
+  },
+  "project_name": "nutch",
+  "project_id": {
+    "$oid": "5b45f6670da3ef0712a85125"
+  },
+  "commit_id": {
+    "$oid": "5b45f76d2123a77a31259560"
+  },
+  "linked_fixed_szz": 612,
+  "linked_fixed_notSzz": 808,
+  "linked_notFixed_szz": 6,
+  "linked_notFixed_notSzz": 218,
+  "notLinked_fixed_szz": 5,
+  "notLinked_fixed_notSzz": 2,
+  "notLinked_notFixed_szz": 32
+},{
+  "_id": {
+    "$oid": "61f8bcca2f1970147448617a"
+  },
+  "project_name": "parquet-mr",
+  "project_id": {
+    "$oid": "5b4769050da3ef0712a85126"
+  },
+  "commit_id": {
+    "$oid": "5b476a2e0f9db94b672714af"
+  },
+  "linked_fixed_szz": 187,
+  "linked_fixed_notSzz": 147,
+  "linked_notFixed_szz": 5,
+  "linked_notFixed_notSzz": 9,
+  "notLinked_fixed_szz": 0,
+  "notLinked_fixed_notSzz": 0,
+  "notLinked_notFixed_szz": 200
+},{
+  "_id": {
+    "$oid": "61f8bccc2f1970147448617b"
+  },
+  "project_name": "tika",
+  "project_id": {
+    "$oid": "5b4853f80da3ef0712a85127"
+  },
+  "commit_id": {
+    "$oid": "5b4855003463875e6a15fe8b"
+  },
+  "linked_fixed_szz": 574,
+  "linked_fixed_notSzz": 950,
+  "linked_notFixed_szz": 5,
+  "linked_notFixed_notSzz": 300,
+  "notLinked_fixed_szz": 1,
+  "notLinked_fixed_notSzz": 20,
+  "notLinked_notFixed_szz": 31
+},{
+  "_id": {
+    "$oid": "61f8bccd2f1970147448617c"
+  },
+  "project_name": "wss4j",
+  "project_id": {
+    "$oid": "5b485f310da3ef07106a7910"
+  },
+  "commit_id": {
+    "$oid": "5b48cf6b56677a7f0af89b61"
+  },
+  "linked_fixed_szz": 224,
+  "linked_fixed_notSzz": 222,
+  "linked_notFixed_szz": 1,
+  "linked_notFixed_notSzz": 33,
+  "notLinked_fixed_szz": 3,
+  "notLinked_fixed_notSzz": 1,
+  "notLinked_notFixed_szz": 38
+},{
+  "_id": {
+    "$oid": "61f8bcd12f1970147448617d"
+  },
+  "project_name": "archiva",
+  "project_id": {
+    "$oid": "5b5838020da3ef04920e02fc"
+  },
+  "commit_id": {
+    "$oid": "5b58549a37b4503ebcb26a4d"
+  },
+  "linked_fixed_szz": 244,
+  "linked_fixed_notSzz": 695,
+  "linked_notFixed_szz": 4,
+  "linked_notFixed_notSzz": 87,
+  "notLinked_fixed_szz": 0,
+  "notLinked_fixed_notSzz": 2,
+  "notLinked_notFixed_szz": 17
+},{
+  "_id": {
+    "$oid": "61f8bcd22f1970147448617e"
+  },
+  "project_name": "deltaspike",
+  "project_id": {
+    "$oid": "5b62dc8b0da3ef049126bdb8"
+  },
+  "commit_id": {
+    "$oid": "5b62dce3a7f7765d8fee0377"
+  },
+  "linked_fixed_szz": 308,
+  "linked_fixed_notSzz": 616,
+  "linked_notFixed_szz": 1,
+  "linked_notFixed_notSzz": 52,
+  "notLinked_fixed_szz": 0,
+  "notLinked_fixed_notSzz": 0,
+  "notLinked_notFixed_szz": 2
+},{
+  "_id": {
+    "$oid": "61f8bcd52f1970147448617f"
+  },
+  "project_name": "jspwiki",
+  "project_id": {
+    "$oid": "5b6446e40da3ef048efc47dd"
+  },
+  "commit_id": {
+    "$oid": "5c38b7c0ca4aae332c247c35"
+  },
+  "linked_fixed_szz": 99,
+  "linked_fixed_notSzz": 381,
+  "linked_notFixed_szz": 0,
+  "linked_notFixed_notSzz": 55,
+  "notLinked_fixed_szz": 0,
+  "notLinked_fixed_notSzz": 3,
+  "notLinked_notFixed_szz": 22
+},{
+  "_id": {
+    "$oid": "61f8bcd72f19701474486180"
+  },
+  "project_name": "xerces2-j",
+  "project_id": {
+    "$oid": "5b72ac790da3ef049126bdb9"
+  },
+  "commit_id": {
+    "$oid": "5b72ad6361c8296e7d265f95"
+  },
+  "linked_fixed_szz": 232,
+  "linked_fixed_notSzz": 11,
+  "linked_notFixed_szz": 0,
+  "linked_notFixed_notSzz": 124,
+  "notLinked_fixed_szz": 3,
+  "notLinked_fixed_notSzz": 1,
+  "notLinked_notFixed_szz": 9
+},{
+  "_id": {
+    "$oid": "61f8bcd92f19701474486181"
+  },
+  "project_name": "tez",
+  "project_id": {
+    "$oid": "5b76be770da3ef049126bdba"
+  },
+  "commit_id": {
+    "$oid": "5b76bee1272f7b723d066fb0"
+  },
+  "linked_fixed_szz": 0,
+  "linked_fixed_notSzz": 0,
+  "linked_notFixed_szz": 1354,
+  "linked_notFixed_notSzz": 1013,
+  "notLinked_fixed_szz": 0,
+  "notLinked_fixed_notSzz": 0,
+  "notLinked_notFixed_szz": 337
+},{
+  "_id": {
+    "$oid": "61f8bcdb2f19701474486182"
+  },
+  "project_name": "systemml",
+  "project_id": {
+    "$oid": "5b7ad7860da3ef049126bdbb"
+  },
+  "commit_id": {
+    "$oid": "5b7adf6adf629e0aeaf213a0"
+  },
+  "linked_fixed_szz": 354,
+  "linked_fixed_notSzz": 951,
+  "linked_notFixed_szz": 8,
+  "linked_notFixed_notSzz": 131,
+  "notLinked_fixed_szz": 0,
+  "notLinked_fixed_notSzz": 2,
+  "notLinked_notFixed_szz": 31
+},{
+  "_id": {
+    "$oid": "61f8bce02f19701474486183"
+  },
+  "project_name": "storm",
+  "project_id": {
+    "$oid": "5b7ffd4e0da3ef049126bdbd"
+  },
+  "commit_id": {
+    "$oid": "5b801b1358a6d70324e41c3f"
+  },
+  "linked_fixed_szz": 0,
+  "linked_fixed_notSzz": 0,
+  "linked_notFixed_szz": 706,
+  "linked_notFixed_notSzz": 1571,
+  "notLinked_fixed_szz": 0,
+  "notLinked_fixed_notSzz": 0,
+  "notLinked_notFixed_szz": 47
+},{
+  "_id": {
+    "$oid": "61f8bce12f19701474486184"
+  },
+  "project_name": "lens",
+  "project_id": {
+    "$oid": "5b89102a0da3ef04920e02fe"
+  },
+  "commit_id": {
+    "$oid": "5b891202a1f4f33b66680eaa"
+  },
+  "linked_fixed_szz": 399,
+  "linked_fixed_notSzz": 452,
+  "linked_notFixed_szz": 5,
+  "linked_notFixed_notSzz": 23,
+  "notLinked_fixed_szz": 0,
+  "notLinked_fixed_notSzz": 0,
+  "notLinked_notFixed_szz": 28
+},{
+  "_id": {
+    "$oid": "61f8bce22f19701474486185"
+  },
+  "project_name": "commons-lang",
+  "project_id": {
+    "$oid": "5bbe0efb0da3ef0ddd6d593d"
+  },
+  "commit_id": {
+    "$oid": "5bbe0f885f06ec482a5cdb9e"
+  },
+  "linked_fixed_szz": 224,
+  "linked_fixed_notSzz": 416,
+  "linked_notFixed_szz": 6,
+  "linked_notFixed_notSzz": 243,
+  "notLinked_fixed_szz": 0,
+  "notLinked_fixed_notSzz": 4,
+  "notLinked_notFixed_szz": 24
+},{
+  "_id": {
+    "$oid": "61f8bced2f19701474486186"
+  },
+  "project_name": "pdfbox",
+  "project_id": {
+    "$oid": "5bc5cf050da3ef0de20a7284"
+  },
+  "commit_id": {
+    "$oid": "5bc5deef0104764b565e7d97"
+  },
+  "linked_fixed_szz": 0,
+  "linked_fixed_notSzz": 0,
+  "linked_notFixed_szz": 1609,
+  "linked_notFixed_notSzz": 824,
+  "notLinked_fixed_szz": 0,
+  "notLinked_fixed_notSzz": 0,
+  "notLinked_notFixed_szz": 29
+},{
+  "_id": {
+    "$oid": "61f8bcee2f19701474486187"
+  },
+  "project_name": "flume",
+  "project_id": {
+    "$oid": "5bc5fab40da3ef0dde0d1fed"
+  },
+  "commit_id": {
+    "$oid": "5bc6021bdf629e7a78378ba8"
+  },
+  "linked_fixed_szz": 0,
+  "linked_fixed_notSzz": 0,
+  "linked_notFixed_szz": 759,
+  "linked_notFixed_notSzz": 649,
+  "notLinked_fixed_szz": 0,
+  "notLinked_fixed_notSzz": 0,
+  "notLinked_notFixed_szz": 30
+},{
+  "_id": {
+    "$oid": "61f8bcf12f19701474486188"
+  },
+  "project_name": "nifi",
+  "project_id": {
+    "$oid": "5bd022e30da3ef1a10738359"
+  },
+  "commit_id": {
+    "$oid": "5bd0290bbad86c1decdd9481"
+  },
+  "linked_fixed_szz": 0,
+  "linked_fixed_notSzz": 0,
+  "linked_notFixed_szz": 1639,
+  "linked_notFixed_notSzz": 1628,
+  "notLinked_fixed_szz": 0,
+  "notLinked_fixed_notSzz": 0,
+  "notLinked_notFixed_szz": 842
+},{
+  "_id": {
+    "$oid": "61f8bcf12f19701474486189"
+  },
+  "project_name": "knox",
+  "project_id": {
+    "$oid": "5bdb01850da3ef21a58b3377"
+  },
+  "commit_id": {
+    "$oid": "5bdb50fa12300b1676c6f587"
+  },
+  "linked_fixed_szz": 570,
+  "linked_fixed_notSzz": 379,
+  "linked_notFixed_szz": 11,
+  "linked_notFixed_notSzz": 13,
+  "notLinked_fixed_szz": 1,
+  "notLinked_fixed_notSzz": 0,
+  "notLinked_notFixed_szz": 50
+},{
+  "_id": {
+    "$oid": "61f8bcf62f1970147448618a"
+  },
+  "project_name": "derby",
+  "project_id": {
+    "$oid": "5bdc03c30da3ef21a62b756c"
+  },
+  "commit_id": {
+    "$oid": "5bdd8d6853cc92017e252c03"
+  },
+  "linked_fixed_szz": 0,
+  "linked_fixed_notSzz": 0,
+  "linked_notFixed_szz": 2151,
+  "linked_notFixed_notSzz": 1799,
+  "notLinked_fixed_szz": 0,
+  "notLinked_fixed_notSzz": 0,
+  "notLinked_notFixed_szz": 127
+},{
+  "_id": {
+    "$oid": "61f8bcf82f1970147448618b"
+  },
+  "project_name": "commons-collections",
+  "project_id": {
+    "$oid": "5bed254e0da3ef21a62b756d"
+  },
+  "commit_id": {
+    "$oid": "5bed270e69c36c2fda1848fe"
+  },
+  "linked_fixed_szz": 26,
+  "linked_fixed_notSzz": 218,
+  "linked_notFixed_szz": 0,
+  "linked_notFixed_notSzz": 40,
+  "notLinked_fixed_szz": 0,
+  "notLinked_fixed_notSzz": 1,
+  "notLinked_notFixed_szz": 1
+},{
+  "_id": {
+    "$oid": "61f8bcf82f1970147448618c"
+  },
+  "project_name": "commons-beanutils",
+  "project_id": {
+    "$oid": "5bed276c0da3ef21a58b337a"
+  },
+  "commit_id": {
+    "$oid": "5bed27d435dbb66543c8d687"
+  },
+  "linked_fixed_szz": 61,
+  "linked_fixed_notSzz": 73,
+  "linked_notFixed_szz": 1,
+  "linked_notFixed_notSzz": 17,
+  "notLinked_fixed_szz": 1,
+  "notLinked_fixed_notSzz": 2,
+  "notLinked_notFixed_szz": 2
+},{
+  "_id": {
+    "$oid": "61f8bcf92f1970147448618d"
+  },
+  "project_name": "commons-codec",
+  "project_id": {
+    "$oid": "5bed58010da3ef21a58b337b"
+  },
+  "commit_id": {
+    "$oid": "5bed5afa95ba19190eeb7003"
+  },
+  "linked_fixed_szz": 41,
+  "linked_fixed_notSzz": 96,
+  "linked_notFixed_szz": 0,
+  "linked_notFixed_notSzz": 30,
+  "notLinked_fixed_szz": 0,
+  "notLinked_fixed_notSzz": 0,
+  "notLinked_notFixed_szz": 2
+},{
+  "_id": {
+    "$oid": "61f8bcfa2f1970147448618e"
+  },
+  "project_name": "commons-compress",
+  "project_id": {
+    "$oid": "5bed583a0da3ef21a58b337c"
+  },
+  "commit_id": {
+    "$oid": "5bed622865108826d57b18ae"
+  },
+  "linked_fixed_szz": 147,
+  "linked_fixed_notSzz": 154,
+  "linked_notFixed_szz": 0,
+  "linked_notFixed_notSzz": 53,
+  "notLinked_fixed_szz": 1,
+  "notLinked_fixed_notSzz": 1,
+  "notLinked_notFixed_szz": 33
+},{
+  "_id": {
+    "$oid": "61f8bcfb2f1970147448618f"
+  },
+  "project_name": "commons-configuration",
+  "project_id": {
+    "$oid": "5bed83440da3ef21a2107882"
+  },
+  "commit_id": {
+    "$oid": "5bed83ee8fc5e969797ebb77"
+  },
+  "linked_fixed_szz": 127,
+  "linked_fixed_notSzz": 197,
+  "linked_notFixed_szz": 1,
+  "linked_notFixed_notSzz": 35,
+  "notLinked_fixed_szz": 2,
+  "notLinked_fixed_notSzz": 0,
+  "notLinked_notFixed_szz": 0
+},{
+  "_id": {
+    "$oid": "61f8bcfc2f19701474486190"
+  },
+  "project_name": "commons-digester",
+  "project_id": {
+    "$oid": "5bee79dc0da3ef21a58b337d"
+  },
+  "commit_id": {
+    "$oid": "5bee7a5e95ba1972982fbd1b"
+  },
+  "linked_fixed_szz": 20,
+  "linked_fixed_notSzz": 27,
+  "linked_notFixed_szz": 0,
+  "linked_notFixed_notSzz": 12,
+  "notLinked_fixed_szz": 0,
+  "notLinked_fixed_notSzz": 1,
+  "notLinked_notFixed_szz": 2
+},{
+  "_id": {
+    "$oid": "61f8bcfc2f19701474486191"
+  },
+  "project_name": "commons-imaging",
+  "project_id": {
+    "$oid": "5bee7a2a0da3ef21a58b337e"
+  },
+  "commit_id": {
+    "$oid": "5bee7ec5544cee7982675ea2"
+  },
+  "linked_fixed_szz": 27,
+  "linked_fixed_notSzz": 34,
+  "linked_notFixed_szz": 1,
+  "linked_notFixed_notSzz": 10,
+  "notLinked_fixed_szz": 1,
+  "notLinked_fixed_notSzz": 0,
+  "notLinked_notFixed_szz": 18
+},{
+  "_id": {
+    "$oid": "61f8bcfd2f19701474486192"
+  },
+  "project_name": "commons-io",
+  "project_id": {
+    "$oid": "5bee7a580da3ef21a58b337f"
+  },
+  "commit_id": {
+    "$oid": "5beea18064fa9b4d379bc9f2"
+  },
+  "linked_fixed_szz": 117,
+  "linked_fixed_notSzz": 178,
+  "linked_notFixed_szz": 0,
+  "linked_notFixed_notSzz": 32,
+  "notLinked_fixed_szz": 0,
+  "notLinked_fixed_notSzz": 0,
+  "notLinked_notFixed_szz": 1
+},{
+  "_id": {
+    "$oid": "61f8bcfd2f19701474486193"
+  },
+  "project_name": "commons-jcs",
+  "project_id": {
+    "$oid": "5bee7a9d0da3ef21a3a094b1"
+  },
+  "commit_id": {
+    "$oid": "5bee7ef4544cee799ede3be9"
+  },
+  "linked_fixed_szz": 71,
+  "linked_fixed_notSzz": 26,
+  "linked_notFixed_szz": 1,
+  "linked_notFixed_notSzz": 17,
+  "notLinked_fixed_szz": 0,
+  "notLinked_fixed_notSzz": 3,
+  "notLinked_notFixed_szz": 9
+},{
+  "_id": {
+    "$oid": "61f8bcfe2f19701474486194"
+  },
+  "project_name": "commons-jexl",
+  "project_id": {
+    "$oid": "5beebd530da3ef21a2107883"
+  },
+  "commit_id": {
+    "$oid": "5bef24ce918c0e016850aac1"
+  },
+  "linked_fixed_szz": 72,
+  "linked_fixed_notSzz": 96,
+  "linked_notFixed_szz": 0,
+  "linked_notFixed_notSzz": 37,
+  "notLinked_fixed_szz": 0,
+  "notLinked_fixed_notSzz": 0,
+  "notLinked_notFixed_szz": 5
+},{
+  "_id": {
+    "$oid": "61f8bcff2f19701474486195"
+  },
+  "project_name": "commons-rdf",
+  "project_id": {
+    "$oid": "5beebd870da3ef21a62b756e"
+  },
+  "commit_id": {
+    "$oid": "5bef255383ad2f56e01cb0e7"
+  },
+  "linked_fixed_szz": 15,
+  "linked_fixed_notSzz": 36,
+  "linked_notFixed_szz": 0,
+  "linked_notFixed_notSzz": 10,
+  "notLinked_fixed_szz": 0,
+  "notLinked_fixed_notSzz": 0,
+  "notLinked_notFixed_szz": 3
+},{
+  "_id": {
+    "$oid": "61f8bcff2f19701474486196"
+  },
+  "project_name": "commons-scxml",
+  "project_id": {
+    "$oid": "5beebdd90da3ef21a62b756f"
+  },
+  "commit_id": {
+    "$oid": "5bef253683ad2f56f32c962c"
+  },
+  "linked_fixed_szz": 49,
+  "linked_fixed_notSzz": 94,
+  "linked_notFixed_szz": 0,
+  "linked_notFixed_notSzz": 33,
+  "notLinked_fixed_szz": 0,
+  "notLinked_fixed_notSzz": 1,
+  "notLinked_notFixed_szz": 9
+},{
+  "_id": {
+    "$oid": "61f8bd002f19701474486197"
+  },
+  "project_name": "commons-validator",
+  "project_id": {
+    "$oid": "5bf29d060da3ef21a62b7570"
+  },
+  "commit_id": {
+    "$oid": "5bf29fbc2952654168815236"
+  },
+  "linked_fixed_szz": 68,
+  "linked_fixed_notSzz": 49,
+  "linked_notFixed_szz": 3,
+  "linked_notFixed_notSzz": 17,
+  "notLinked_fixed_szz": 0,
+  "notLinked_fixed_notSzz": 3,
+  "notLinked_notFixed_szz": 47
+},{
+  "_id": {
+    "$oid": "61f8bd012f19701474486198"
+  },
+  "project_name": "commons-vfs",
+  "project_id": {
+    "$oid": "5bf29db50da3ef21a3a094b2"
+  },
+  "commit_id": {
+    "$oid": "5bf29fb96461f52969bc57da"
+  },
+  "linked_fixed_szz": 108,
+  "linked_fixed_notSzz": 165,
+  "linked_notFixed_szz": 0,
+  "linked_notFixed_notSzz": 43,
+  "notLinked_fixed_szz": 1,
+  "notLinked_fixed_notSzz": 1,
+  "notLinked_notFixed_szz": 0
+},{
+  "_id": {
+    "$oid": "61f8bd012f19701474486199"
+  },
+  "project_name": "giraph",
+  "project_id": {
+    "$oid": "5bf51bf90da3ef21a2107884"
+  },
+  "commit_id": {
+    "$oid": "5bf51ce2d2f8190d88f3c6f1"
+  },
+  "linked_fixed_szz": 342,
+  "linked_fixed_notSzz": 442,
+  "linked_notFixed_szz": 2,
+  "linked_notFixed_notSzz": 34,
+  "notLinked_fixed_szz": 0,
+  "notLinked_fixed_notSzz": 0,
+  "notLinked_notFixed_szz": 21
+},{
+  "_id": {
+    "$oid": "61f8bd052f1970147448619a"
+  },
+  "project_name": "manifoldcf",
+  "project_id": {
+    "$oid": "5c3f09db0da3ef512137483f"
+  },
+  "commit_id": {
+    "$oid": "5c3f2e2b66ca241a7852509a"
+  },
+  "linked_fixed_szz": 617,
+  "linked_fixed_notSzz": 119,
+  "linked_notFixed_szz": 2,
+  "linked_notFixed_notSzz": 519,
+  "notLinked_fixed_szz": 3,
+  "notLinked_fixed_notSzz": 6,
+  "notLinked_notFixed_szz": 4
+},{
+  "_id": {
+    "$oid": "61f8bd062f1970147448619b"
+  },
+  "project_name": "ranger",
+  "project_id": {
+    "$oid": "5c4576f30da3ef08928c5fd7"
+  },
+  "commit_id": {
+    "$oid": "5c458707d5cbb63922390ef5"
+  },
+  "linked_fixed_szz": 0,
+  "linked_fixed_notSzz": 0,
+  "linked_notFixed_szz": 1322,
+  "linked_notFixed_notSzz": 468,
+  "notLinked_fixed_szz": 0,
+  "notLinked_fixed_notSzz": 0,
+  "notLinked_notFixed_szz": 207
+},{
+  "_id": {
+    "$oid": "61f8bd072f1970147448619c"
+  },
+  "project_name": "eagle",
+  "project_id": {
+    "$oid": "5c5012230da3ef08914b280e"
+  },
+  "commit_id": {
+    "$oid": "5c501ff536dcc75e45a44e09"
+  },
+  "linked_fixed_szz": 101,
+  "linked_fixed_notSzz": 545,
+  "linked_notFixed_szz": 0,
+  "linked_notFixed_notSzz": 43,
+  "notLinked_fixed_szz": 0,
+  "notLinked_fixed_notSzz": 2,
+  "notLinked_notFixed_szz": 69
+},{
+  "_id": {
+    "$oid": "61f8bd072f1970147448619d"
+  },
+  "project_name": "commons-bcel",
+  "project_id": {
+    "$oid": "5c87a7300da3ef6c8a4bf6d8"
+  },
+  "commit_id": {
+    "$oid": "5c87a83ee84e0032bb59a975"
+  },
+  "linked_fixed_szz": 40,
+  "linked_fixed_notSzz": 45,
+  "linked_notFixed_szz": 0,
+  "linked_notFixed_notSzz": 18,
+  "notLinked_fixed_szz": 0,
+  "notLinked_fixed_notSzz": 0,
+  "notLinked_notFixed_szz": 0
+},{
+  "_id": {
+    "$oid": "61f8bd082f1970147448619e"
+  },
+  "project_name": "commons-dbcp",
+  "project_id": {
+    "$oid": "5c87a9510da3ef6c89b69038"
+  },
+  "commit_id": {
+    "$oid": "5c87a9f91f420e02b415da99"
+  },
+  "linked_fixed_szz": 75,
+  "linked_fixed_notSzz": 113,
+  "linked_notFixed_szz": 0,
+  "linked_notFixed_notSzz": 47,
+  "notLinked_fixed_szz": 1,
+  "notLinked_fixed_notSzz": 0,
+  "notLinked_notFixed_szz": 4
+},{
+  "_id": {
+    "$oid": "61f8bd092f1970147448619f"
+  },
+  "project_name": "zookeeper",
+  "project_id": {
+    "$oid": "5ca4c6b26bcebe2f4003c6e4"
+  },
+  "commit_id": {
+    "$oid": "5b27cc2beee55345738692af"
+  },
+  "linked_fixed_szz": 0,
+  "linked_fixed_notSzz": 0,
+  "linked_notFixed_szz": 852,
+  "linked_notFixed_notSzz": 565,
+  "notLinked_fixed_szz": 0,
+  "notLinked_fixed_notSzz": 0,
+  "notLinked_notFixed_szz": 232
+},{
+  "_id": {
+    "$oid": "61f8bd0e2f197014744861a0"
+  },
+  "project_name": "phoenix",
+  "project_id": {
+    "$oid": "5ca733460da3ef745ec4cc83"
+  },
+  "commit_id": {
+    "$oid": "5ca73a4108955e05129af217"
+  },
+  "linked_fixed_szz": 0,
+  "linked_fixed_notSzz": 0,
+  "linked_notFixed_szz": 0,
+  "linked_notFixed_notSzz": 2191,
+  "notLinked_fixed_szz": 0,
+  "notLinked_fixed_notSzz": 0,
+  "notLinked_notFixed_szz": 0
+},{
+  "_id": {
+    "$oid": "61f8bd0e2f197014744861a1"
+  },
+  "project_name": "gora",
+  "project_id": {
+    "$oid": "5cae08e00da3ef745f799438"
+  },
+  "commit_id": {
+    "$oid": "5cae09d4be4a167297baa21f"
+  },
+  "linked_fixed_szz": 100,
+  "linked_fixed_notSzz": 164,
+  "linked_notFixed_szz": 2,
+  "linked_notFixed_notSzz": 74,
+  "notLinked_fixed_szz": 0,
+  "notLinked_fixed_notSzz": 8,
+  "notLinked_notFixed_szz": 15
+},{
+  "_id": {
+    "$oid": "61f8bd0f2f197014744861a2"
+  },
+  "project_name": "santuario-java",
+  "project_id": {
+    "$oid": "5caee5640da3ef745ec4cc84"
+  },
+  "commit_id": {
+    "$oid": "5caeeebd4dd2d9574141f208"
+  },
+  "linked_fixed_szz": 78,
+  "linked_fixed_notSzz": 66,
+  "linked_notFixed_szz": 2,
+  "linked_notFixed_notSzz": 19,
+  "notLinked_fixed_szz": 0,
+  "notLinked_fixed_notSzz": 0,
+  "notLinked_notFixed_szz": 8
+},{
+  "_id": {
+    "$oid": "61f8bd112f197014744861a3"
+  },
+  "project_name": "helix",
+  "project_id": {
+    "$oid": "5cb58a500da3ef74602db8dd"
+  },
+  "commit_id": {
+    "$oid": "5cb58eb9721db525ea186fc8"
+  },
+  "linked_fixed_szz": 0,
+  "linked_fixed_notSzz": 0,
+  "linked_notFixed_szz": 0,
+  "linked_notFixed_notSzz": 446,
+  "notLinked_fixed_szz": 0,
+  "notLinked_fixed_notSzz": 0,
+  "notLinked_notFixed_szz": 0
+},{
+  "_id": {
+    "$oid": "61f8bd172f197014744861a4"
+  },
+  "project_name": "jena",
+  "project_id": {
+    "$oid": "5cb58add0da3ef7463511086"
+  },
+  "commit_id": {
+    "$oid": "5cb5b335e5cffa2075ed0afd"
+  },
+  "linked_fixed_szz": 0,
+  "linked_fixed_notSzz": 0,
+  "linked_notFixed_szz": 0,
+  "linked_notFixed_notSzz": 1086,
+  "notLinked_fixed_szz": 0,
+  "notLinked_fixed_notSzz": 0,
+  "notLinked_notFixed_szz": 0
+},{
+  "_id": {
+    "$oid": "61f8bd192f197014744861a5"
+  },
+  "project_name": "httpcomponents-client",
+  "project_id": {
+    "$oid": "5cd27fe20da3ef671cda02e7"
+  },
+  "commit_id": {
+    "$oid": "5cd284d64eb92640bb532c67"
+  },
+  "linked_fixed_szz": 0,
+  "linked_fixed_notSzz": 0,
+  "linked_notFixed_szz": 0,
+  "linked_notFixed_notSzz": 674,
+  "notLinked_fixed_szz": 0,
+  "notLinked_fixed_notSzz": 0,
+  "notLinked_notFixed_szz": 0
+},{
+  "_id": {
+    "$oid": "61f8bd1a2f197014744861a6"
+  },
+  "project_name": "httpcomponents-core",
+  "project_id": {
+    "$oid": "5d8cb4a10da3ef0b68077801"
+  },
+  "commit_id": {
+    "$oid": "5d8cd1c553cc927575ce468d"
+  },
+  "linked_fixed_szz": 0,
+  "linked_fixed_notSzz": 0,
+  "linked_notFixed_szz": 0,
+  "linked_notFixed_notSzz": 430,
+  "notLinked_fixed_szz": 0,
+  "notLinked_fixed_notSzz": 0,
+  "notLinked_notFixed_szz": 0
+},{
+  "_id": {
+    "$oid": "61f8bd1b2f197014744861a7"
+  },
+  "project_name": "streams",
+  "project_id": {
+    "$oid": "5d91bbb20da3ef35cfd2f443"
+  },
+  "commit_id": {
+    "$oid": "5d91d6e29c50122f9ad2dd55"
+  },
+  "linked_fixed_szz": 0,
+  "linked_fixed_notSzz": 0,
+  "linked_notFixed_szz": 0,
+  "linked_notFixed_notSzz": 400,
+  "notLinked_fixed_szz": 0,
+  "notLinked_fixed_notSzz": 0,
+  "notLinked_notFixed_szz": 0
+},{
+  "_id": {
+    "$oid": "61f8bd1c2f197014744861a8"
+  },
+  "project_name": "samza",
+  "project_id": {
+    "$oid": "5d91bc110da3ef35ce147e4a"
+  },
+  "commit_id": {
+    "$oid": "5d91c182108c6c2a064923b4"
+  },
+  "linked_fixed_szz": 0,
+  "linked_fixed_notSzz": 0,
+  "linked_notFixed_szz": 0,
+  "linked_notFixed_notSzz": 1339,
+  "notLinked_fixed_szz": 0,
+  "notLinked_fixed_notSzz": 0,
+  "notLinked_notFixed_szz": 0
+},{
+  "_id": {
+    "$oid": "61f8bd1d2f197014744861a9"
+  },
+  "project_name": "roller",
+  "project_id": {
+    "$oid": "5d91bcdd0da3ef35d1432e3c"
+  },
+  "commit_id": {
+    "$oid": "5d91ccd3b75a311f4b3098a3"
+  },
+  "linked_fixed_szz": 0,
+  "linked_fixed_notSzz": 0,
+  "linked_notFixed_szz": 0,
+  "linked_notFixed_notSzz": 505,
+  "notLinked_fixed_szz": 0,
+  "notLinked_fixed_notSzz": 0,
+  "notLinked_notFixed_szz": 0
+},{
+  "_id": {
+    "$oid": "61f8bd1e2f197014744861aa"
+  },
+  "project_name": "mina-sshd",
+  "project_id": {
+    "$oid": "5d9edd090da3ef03c84bcf46"
+  },
+  "commit_id": {
+    "$oid": "5d9ee126522cf448d5a9d356"
+  },
+  "linked_fixed_szz": 0,
+  "linked_fixed_notSzz": 0,
+  "linked_notFixed_szz": 0,
+  "linked_notFixed_notSzz": 733,
+  "notLinked_fixed_szz": 0,
+  "notLinked_fixed_notSzz": 0,
+  "notLinked_notFixed_szz": 0
+},{
+  "_id": {
+    "$oid": "61f8bd1f2f197014744861ab"
+  },
+  "project_name": "bigtop",
+  "project_id": {
+    "$oid": "5da724f20da3ef03c84bcf48"
+  },
+  "commit_id": {
+    "$oid": "5da729af5a691542de9d7031"
+  },
+  "linked_fixed_szz": 0,
+  "linked_fixed_notSzz": 0,
+  "linked_notFixed_szz": 0,
+  "linked_notFixed_notSzz": 2151,
+  "notLinked_fixed_szz": 0,
+  "notLinked_fixed_notSzz": 0,
+  "notLinked_notFixed_szz": 0
+},{
+  "_id": {
+    "$oid": "61f8bd242f197014744861ac"
+  },
+  "project_name": "jackrabbit",
+  "project_id": {
+    "$oid": "5db7e7440da3ef03c5c29845"
+  },
+  "commit_id": {
+    "$oid": "5db8046c9f03370afcf3dc90"
+  },
+  "linked_fixed_szz": 0,
+  "linked_fixed_notSzz": 0,
+  "linked_notFixed_szz": 0,
+  "linked_notFixed_notSzz": 0,
+  "notLinked_fixed_szz": 0,
+  "notLinked_fixed_notSzz": 0,
+  "notLinked_notFixed_szz": 0
+},{
+  "_id": {
+    "$oid": "61f8bd252f197014744861ad"
+  },
+  "project_name": "oozie",
+  "project_id": {
+    "$oid": "5e6f7e7e0da3ef2ed37503a8"
+  },
+  "commit_id": {
+    "$oid": "5e6f833ba546a6741d0efcc9"
+  },
+  "linked_fixed_szz": 0,
+  "linked_fixed_notSzz": 0,
+  "linked_notFixed_szz": 0,
+  "linked_notFixed_notSzz": 1878,
+  "notLinked_fixed_szz": 0,
+  "notLinked_fixed_notSzz": 0,
+  "notLinked_notFixed_szz": 0
+},{
+  "_id": {
+    "$oid": "61f8bd292f197014744861ae"
+  },
+  "project_name": "activemq",
+  "project_id": {
+    "$oid": "5e71c4d43c63727691322420"
+  },
+  "commit_id": {
+    "$oid": "5e71d9fd1c4f2a5a2b6dcb8a"
+  },
+  "linked_fixed_szz": 0,
+  "linked_fixed_notSzz": 0,
+  "linked_notFixed_szz": 0,
+  "linked_notFixed_notSzz": 3622,
+  "notLinked_fixed_szz": 0,
+  "notLinked_fixed_notSzz": 0,
+  "notLinked_notFixed_szz": 0
+},{
+  "_id": {
+    "$oid": "61f8bd2e2f197014744861af"
+  },
+  "project_name": "maven",
+  "project_id": {
+    "$oid": "5e84988880c620a732667310"
+  },
+  "commit_id": {
+    "$oid": "5e84cb82770ce37ee9db5ab3"
+  },
+  "linked_fixed_szz": 0,
+  "linked_fixed_notSzz": 0,
+  "linked_notFixed_szz": 0,
+  "linked_notFixed_notSzz": 3864,
+  "notLinked_fixed_szz": 0,
+  "notLinked_fixed_notSzz": 0,
+  "notLinked_notFixed_szz": 0
+},{
+  "_id": {
+    "$oid": "61f8bd312f197014744861b0"
+  },
+  "project_name": "openjpa",
+  "project_id": {
+    "$oid": "5f1050f2eafc140f94041bf7"
+  },
+  "commit_id": {
+    "$oid": "5f3a96794d4881ebed4a0b7d"
+  },
+  "linked_fixed_szz": 0,
+  "linked_fixed_notSzz": 0,
+  "linked_notFixed_szz": 0,
+  "linked_notFixed_notSzz": 1681,
+  "notLinked_fixed_szz": 0,
+  "notLinked_fixed_notSzz": 0,
+  "notLinked_notFixed_szz": 0
+},{
+  "_id": {
+    "$oid": "61f8bd312f197014744861b1"
+  },
+  "project_name": "directory-fortress-core",
+  "project_id": {
+    "$oid": "600331161b86c4258c362292"
+  },
+  "commit_id": {
+    "$oid": "5caeefa1306573730ee6abd6"
+  },
+  "linked_fixed_szz": 58,
+  "linked_fixed_notSzz": 136,
+  "linked_notFixed_szz": 0,
+  "linked_notFixed_notSzz": 7,
+  "notLinked_fixed_szz": 0,
+  "notLinked_fixed_notSzz": 0,
+  "notLinked_notFixed_szz": 10
+},{
+  "_id": {
+    "$oid": "61f8bd332f197014744861b2"
+  },
+  "project_name": "directory-studio",
+  "project_id": {
+    "$oid": "6076b1088d56179891397c6f"
+  },
+  "commit_id": {
+    "$oid": "6076b88f617b52e8e408047b"
+  },
+  "linked_fixed_szz": 0,
+  "linked_fixed_notSzz": 0,
+  "linked_notFixed_szz": 0,
+  "linked_notFixed_notSzz": 643,
+  "notLinked_fixed_szz": 0,
+  "notLinked_fixed_notSzz": 0,
+  "notLinked_notFixed_szz": 0
+},{
+  "_id": {
+    "$oid": "61f8bd352f197014744861b3"
+  },
+  "project_name": "xmlgraphics-batik",
+  "project_id": {
+    "$oid": "60814f734064fcb5083898b4"
+  },
+  "commit_id": {
+    "$oid": "6081534b5b1a1f0ae464d380"
+  },
+  "linked_fixed_szz": 0,
+  "linked_fixed_notSzz": 0,
+  "linked_notFixed_szz": 0,
+  "linked_notFixed_notSzz": 55,
+  "notLinked_fixed_szz": 0,
+  "notLinked_fixed_notSzz": 0,
+  "notLinked_notFixed_szz": 0
+},{
+  "_id": {
+    "$oid": "61f8bd362f197014744861b4"
+  },
+  "project_name": "curator",
+  "project_id": {
+    "$oid": "608b9b0227ad48a9ceb48654"
+  },
+  "commit_id": {
+    "$oid": "608b9df8e61739c47b7509ef"
+  },
+  "linked_fixed_szz": 0,
+  "linked_fixed_notSzz": 0,
+  "linked_notFixed_szz": 0,
+  "linked_notFixed_notSzz": 257,
+  "notLinked_fixed_szz": 0,
+  "notLinked_fixed_notSzz": 0,
+  "notLinked_notFixed_szz": 0
+},{
+  "_id": {
+    "$oid": "61f8bd372f197014744861b5"
+  },
+  "project_name": "directory-kerby",
+  "project_id": {
+    "$oid": "608b9e8d4064fcb5083898b5"
+  },
+  "commit_id": {
+    "$oid": "608ba6058fee0c22fef1ff42"
+  },
+  "linked_fixed_szz": 0,
+  "linked_fixed_notSzz": 0,
+  "linked_notFixed_szz": 0,
+  "linked_notFixed_notSzz": 459,
+  "notLinked_fixed_szz": 0,
+  "notLinked_fixed_notSzz": 0,
+  "notLinked_notFixed_szz": 0
+},{
+  "_id": {
+    "$oid": "61f8bd392f197014744861b6"
+  },
+  "project_name": "fineract",
+  "project_id": {
+    "$oid": "608c3a354064fcb5083898b6"
+  },
+  "commit_id": {
+    "$oid": "608c428e4cecfade6c2e9ae5"
+  },
+  "linked_fixed_szz": 0,
+  "linked_fixed_notSzz": 0,
+  "linked_notFixed_szz": 0,
+  "linked_notFixed_notSzz": 451,
+  "notLinked_fixed_szz": 0,
+  "notLinked_fixed_notSzz": 0,
+  "notLinked_notFixed_szz": 0
+},{
+  "_id": {
+    "$oid": "61f8bd3a2f197014744861b7"
+  },
+  "project_name": "cxf-fediz",
+  "project_id": {
+    "$oid": "60a24a6992d37bcecc65bf82"
+  },
+  "commit_id": {
+    "$oid": "60a24b7e159cb4450795ea2d"
+  },
+  "linked_fixed_szz": 0,
+  "linked_fixed_notSzz": 0,
+  "linked_notFixed_szz": 0,
+  "linked_notFixed_notSzz": 177,
+  "notLinked_fixed_szz": 0,
+  "notLinked_fixed_notSzz": 0,
+  "notLinked_notFixed_szz": 0
+},{
+  "_id": {
+    "$oid": "61f8bd3c2f197014744861b8"
+  },
+  "project_name": "freemarker",
+  "project_id": {
+    "$oid": "60a24a978d56179891397c71"
+  },
+  "commit_id": {
+    "$oid": "60a24db30f99f9deee13e703"
+  },
+  "linked_fixed_szz": 0,
+  "linked_fixed_notSzz": 0,
+  "linked_notFixed_szz": 0,
+  "linked_notFixed_notSzz": 44,
+  "notLinked_fixed_szz": 0,
+  "notLinked_fixed_notSzz": 0,
+  "notLinked_notFixed_szz": 0
+},{
+  "_id": {
+    "$oid": "61f8bd3d2f197014744861b9"
+  },
+  "project_name": "openwebbeans",
+  "project_id": {
+    "$oid": "60a24ac427ad48a9ceb48656"
+  },
+  "commit_id": {
+    "$oid": "60a24c9a795b99fb89a94876"
+  },
+  "linked_fixed_szz": 0,
+  "linked_fixed_notSzz": 0,
+  "linked_notFixed_szz": 0,
+  "linked_notFixed_notSzz": 1029,
+  "notLinked_fixed_szz": 0,
+  "notLinked_fixed_notSzz": 0,
+  "notLinked_notFixed_szz": 0
+}]

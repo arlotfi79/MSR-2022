@@ -1,0 +1,848 @@
+[{
+  "_id": {
+    "$oid": "61f3b93d22e4451882d887f0"
+  },
+  "project_id": {
+    "$oid": "58bfd5860da3ef7cef464c78"
+  },
+  "name": "commons-math",
+  "number_of_unique_links_to_messages": 2425,
+  "number_of_total_links_to_messages": 203272,
+  "percentage": 1.1929828013695936
+},{
+  "_id": {
+    "$oid": "61f3b93e22e4451882d887f1"
+  },
+  "project_id": {
+    "$oid": "58c8979e0da3ef6363ccb8de"
+  },
+  "name": "ant-ivy",
+  "number_of_unique_links_to_messages": 29,
+  "number_of_total_links_to_messages": 106405,
+  "percentage": 0.027254358347822
+},{
+  "_id": {
+    "$oid": "61f3b94022e4451882d887f2"
+  },
+  "project_id": {
+    "$oid": "5b0fa95e0da3ef431af80833"
+  },
+  "name": "kafka",
+  "number_of_unique_links_to_messages": 35565,
+  "number_of_total_links_to_messages": 150474,
+  "percentage": 23.63531241277563
+},{
+  "_id": {
+    "$oid": "61f3b94122e4451882d887f3"
+  },
+  "project_id": {
+    "$oid": "5b110ee90da3ef05a99f0de6"
+  },
+  "name": "zeppelin",
+  "number_of_unique_links_to_messages": 1945,
+  "number_of_total_links_to_messages": 51738,
+  "percentage": 3.759325834009819
+},{
+  "_id": {
+    "$oid": "61f3b94322e4451882d887f4"
+  },
+  "project_id": {
+    "$oid": "5b1f9fbb0da3ef49b7d0a480"
+  },
+  "name": "mahout",
+  "number_of_unique_links_to_messages": 17529,
+  "number_of_total_links_to_messages": 70171,
+  "percentage": 24.98040501061692
+},{
+  "_id": {
+    "$oid": "61f3b94422e4451882d887f5"
+  },
+  "project_id": {
+    "$oid": "5b2225520da3ef3e52ece5e2"
+  },
+  "name": "struts",
+  "number_of_unique_links_to_messages": 199,
+  "number_of_total_links_to_messages": 290067,
+  "percentage": 0.06860483957154727
+},{
+  "_id": {
+    "$oid": "61f3b94522e4451882d887f6"
+  },
+  "project_id": {
+    "$oid": "5b27c4cc0da3ef789daec0a1"
+  },
+  "name": "opennlp",
+  "number_of_unique_links_to_messages": 248,
+  "number_of_total_links_to_messages": 7907,
+  "percentage": 3.1364613633489316
+},{
+  "_id": {
+    "$oid": "61f3b94622e4451882d887f7"
+  },
+  "project_id": {
+    "$oid": "5b2903690da3ef789cc240ea"
+  },
+  "name": "pig",
+  "number_of_unique_links_to_messages": 33966,
+  "number_of_total_links_to_messages": 79823,
+  "percentage": 42.5516455157035
+},{
+  "_id": {
+    "$oid": "61f3b94722e4451882d887f8"
+  },
+  "project_id": {
+    "$oid": "5b34a9210da3ef789cc240ec"
+  },
+  "name": "calcite",
+  "number_of_unique_links_to_messages": 679,
+  "number_of_total_links_to_messages": 12716,
+  "percentage": 5.339729474677571
+},{
+  "_id": {
+    "$oid": "61f3b94822e4451882d887f9"
+  },
+  "project_id": {
+    "$oid": "5b3b2d520da3ef789ec953ea"
+  },
+  "name": "cayenne",
+  "number_of_unique_links_to_messages": 1437,
+  "number_of_total_links_to_messages": 24076,
+  "percentage": 5.968599435122114
+},{
+  "_id": {
+    "$oid": "61f3b94922e4451882d887fa"
+  },
+  "project_id": {
+    "$oid": "5b4329280da3ef07116c76f0"
+  },
+  "name": "falcon",
+  "number_of_unique_links_to_messages": 13355,
+  "number_of_total_links_to_messages": 29552,
+  "percentage": 45.19152680021657
+},{
+  "_id": {
+    "$oid": "61f3b94a22e4451882d887fb"
+  },
+  "project_id": {
+    "$oid": "5b43728b0da3ef07106a790f"
+  },
+  "name": "kylin",
+  "number_of_unique_links_to_messages": 2311,
+  "number_of_total_links_to_messages": 24485,
+  "percentage": 9.438431692873188
+},{
+  "_id": {
+    "$oid": "61f3b94c22e4451882d887fc"
+  },
+  "project_id": {
+    "$oid": "5b45f6670da3ef0712a85125"
+  },
+  "name": "nutch",
+  "number_of_unique_links_to_messages": 17085,
+  "number_of_total_links_to_messages": 76112,
+  "percentage": 22.44718309859155
+},{
+  "_id": {
+    "$oid": "61f3b94c22e4451882d887fd"
+  },
+  "project_id": {
+    "$oid": "5b4769050da3ef0712a85126"
+  },
+  "name": "parquet-mr",
+  "number_of_unique_links_to_messages": 2265,
+  "number_of_total_links_to_messages": 13107,
+  "percentage": 17.280842298008697
+},{
+  "_id": {
+    "$oid": "61f3b94d22e4451882d887fe"
+  },
+  "project_id": {
+    "$oid": "5b4853f80da3ef0712a85127"
+  },
+  "name": "tika",
+  "number_of_unique_links_to_messages": 15129,
+  "number_of_total_links_to_messages": 36826,
+  "percentage": 41.08238744365394
+},{
+  "_id": {
+    "$oid": "61f3b94e22e4451882d887ff"
+  },
+  "project_id": {
+    "$oid": "5b485f310da3ef07106a7910"
+  },
+  "name": "wss4j",
+  "number_of_unique_links_to_messages": 1115,
+  "number_of_total_links_to_messages": 5714,
+  "percentage": 19.513475673783688
+},{
+  "_id": {
+    "$oid": "61f3b94f22e4451882d88800"
+  },
+  "project_id": {
+    "$oid": "5b5838020da3ef04920e02fc"
+  },
+  "name": "archiva",
+  "number_of_unique_links_to_messages": 21,
+  "number_of_total_links_to_messages": 9052,
+  "percentage": 0.23199292973928415
+},{
+  "_id": {
+    "$oid": "61f3b95022e4451882d88801"
+  },
+  "project_id": {
+    "$oid": "5b62dc8b0da3ef049126bdb8"
+  },
+  "name": "deltaspike",
+  "number_of_unique_links_to_messages": 5916,
+  "number_of_total_links_to_messages": 18571,
+  "percentage": 31.85611975660977
+},{
+  "_id": {
+    "$oid": "61f3b95122e4451882d88802"
+  },
+  "project_id": {
+    "$oid": "5b6446e40da3ef048efc47dd"
+  },
+  "name": "jspwiki",
+  "number_of_unique_links_to_messages": 3635,
+  "number_of_total_links_to_messages": 16333,
+  "percentage": 22.25555623584155
+},{
+  "_id": {
+    "$oid": "61f3b95222e4451882d88803"
+  },
+  "project_id": {
+    "$oid": "5b72ac790da3ef049126bdb9"
+  },
+  "name": "xerces2-j",
+  "number_of_unique_links_to_messages": 2338,
+  "number_of_total_links_to_messages": 36665,
+  "percentage": 6.3766534842492835
+},{
+  "_id": {
+    "$oid": "61f3b95422e4451882d88804"
+  },
+  "project_id": {
+    "$oid": "5b76be770da3ef049126bdba"
+  },
+  "name": "tez",
+  "number_of_unique_links_to_messages": 788,
+  "number_of_total_links_to_messages": 8942,
+  "percentage": 8.812346231268172
+},{
+  "_id": {
+    "$oid": "61f3b95422e4451882d88805"
+  },
+  "project_id": {
+    "$oid": "5b7ad7860da3ef049126bdbb"
+  },
+  "name": "systemml",
+  "number_of_unique_links_to_messages": 5,
+  "number_of_total_links_to_messages": 2641,
+  "percentage": 0.18932222642938282
+},{
+  "_id": {
+    "$oid": "61f3b95522e4451882d88806"
+  },
+  "project_id": {
+    "$oid": "5b7ffd4e0da3ef049126bdbd"
+  },
+  "name": "storm",
+  "number_of_unique_links_to_messages": 19253,
+  "number_of_total_links_to_messages": 77745,
+  "percentage": 24.764293523699273
+},{
+  "_id": {
+    "$oid": "61f3b95622e4451882d88807"
+  },
+  "project_id": {
+    "$oid": "5b89102a0da3ef04920e02fe"
+  },
+  "name": "lens",
+  "number_of_unique_links_to_messages": 12963,
+  "number_of_total_links_to_messages": 27596,
+  "percentage": 46.97419915929844
+},{
+  "_id": {
+    "$oid": "61f3b95622e4451882d88808"
+  },
+  "project_id": {
+    "$oid": "5bbe0efb0da3ef0ddd6d593d"
+  },
+  "name": "commons-lang",
+  "number_of_unique_links_to_messages": 0,
+  "number_of_total_links_to_messages": 0,
+  "percentage": 0
+},{
+  "_id": {
+    "$oid": "61f3b95822e4451882d88809"
+  },
+  "project_id": {
+    "$oid": "5bc5cf050da3ef0de20a7284"
+  },
+  "name": "pdfbox",
+  "number_of_unique_links_to_messages": 35841,
+  "number_of_total_links_to_messages": 76984,
+  "percentage": 46.55642730957082
+},{
+  "_id": {
+    "$oid": "61f3b95922e4451882d8880a"
+  },
+  "project_id": {
+    "$oid": "5bc5fab40da3ef0dde0d1fed"
+  },
+  "name": "flume",
+  "number_of_unique_links_to_messages": 11840,
+  "number_of_total_links_to_messages": 40052,
+  "percentage": 29.56156995905323
+},{
+  "_id": {
+    "$oid": "61f3b95a22e4451882d8880b"
+  },
+  "project_id": {
+    "$oid": "5bd022e30da3ef1a10738359"
+  },
+  "name": "nifi",
+  "number_of_unique_links_to_messages": 26,
+  "number_of_total_links_to_messages": 29144,
+  "percentage": 0.08921218775734285
+},{
+  "_id": {
+    "$oid": "61f3b95b22e4451882d8880c"
+  },
+  "project_id": {
+    "$oid": "5bdb01850da3ef21a58b3377"
+  },
+  "name": "knox",
+  "number_of_unique_links_to_messages": 9031,
+  "number_of_total_links_to_messages": 20980,
+  "percentage": 43.04575786463298
+},{
+  "_id": {
+    "$oid": "61f3b95c22e4451882d8880d"
+  },
+  "project_id": {
+    "$oid": "5bdc03c30da3ef21a62b756c"
+  },
+  "name": "derby",
+  "number_of_unique_links_to_messages": 62555,
+  "number_of_total_links_to_messages": 139489,
+  "percentage": 44.84583013714343
+},{
+  "_id": {
+    "$oid": "61f3b95c22e4451882d8880e"
+  },
+  "project_id": {
+    "$oid": "5bed254e0da3ef21a62b756d"
+  },
+  "name": "commons-collections",
+  "number_of_unique_links_to_messages": 0,
+  "number_of_total_links_to_messages": 0,
+  "percentage": 0
+},{
+  "_id": {
+    "$oid": "61f3b95c22e4451882d8880f"
+  },
+  "project_id": {
+    "$oid": "5bed276c0da3ef21a58b337a"
+  },
+  "name": "commons-beanutils",
+  "number_of_unique_links_to_messages": 0,
+  "number_of_total_links_to_messages": 0,
+  "percentage": 0
+},{
+  "_id": {
+    "$oid": "61f3b95c22e4451882d88810"
+  },
+  "project_id": {
+    "$oid": "5bed58010da3ef21a58b337b"
+  },
+  "name": "commons-codec",
+  "number_of_unique_links_to_messages": 0,
+  "number_of_total_links_to_messages": 0,
+  "percentage": 0
+},{
+  "_id": {
+    "$oid": "61f3b95c22e4451882d88811"
+  },
+  "project_id": {
+    "$oid": "5bed583a0da3ef21a58b337c"
+  },
+  "name": "commons-compress",
+  "number_of_unique_links_to_messages": 0,
+  "number_of_total_links_to_messages": 0,
+  "percentage": 0
+},{
+  "_id": {
+    "$oid": "61f3b95c22e4451882d88812"
+  },
+  "project_id": {
+    "$oid": "5bed83440da3ef21a2107882"
+  },
+  "name": "commons-configuration",
+  "number_of_unique_links_to_messages": 0,
+  "number_of_total_links_to_messages": 0,
+  "percentage": 0
+},{
+  "_id": {
+    "$oid": "61f3b95c22e4451882d88813"
+  },
+  "project_id": {
+    "$oid": "5bee79dc0da3ef21a58b337d"
+  },
+  "name": "commons-digester",
+  "number_of_unique_links_to_messages": 0,
+  "number_of_total_links_to_messages": 0,
+  "percentage": 0
+},{
+  "_id": {
+    "$oid": "61f3b95c22e4451882d88814"
+  },
+  "project_id": {
+    "$oid": "5bee7a2a0da3ef21a58b337e"
+  },
+  "name": "commons-imaging",
+  "number_of_unique_links_to_messages": 0,
+  "number_of_total_links_to_messages": 0,
+  "percentage": 0
+},{
+  "_id": {
+    "$oid": "61f3b95c22e4451882d88815"
+  },
+  "project_id": {
+    "$oid": "5bee7a580da3ef21a58b337f"
+  },
+  "name": "commons-io",
+  "number_of_unique_links_to_messages": 0,
+  "number_of_total_links_to_messages": 0,
+  "percentage": 0
+},{
+  "_id": {
+    "$oid": "61f3b95c22e4451882d88816"
+  },
+  "project_id": {
+    "$oid": "5bee7a9d0da3ef21a3a094b1"
+  },
+  "name": "commons-jcs",
+  "number_of_unique_links_to_messages": 0,
+  "number_of_total_links_to_messages": 0,
+  "percentage": 0
+},{
+  "_id": {
+    "$oid": "61f3b95c22e4451882d88817"
+  },
+  "project_id": {
+    "$oid": "5beebd530da3ef21a2107883"
+  },
+  "name": "commons-jexl",
+  "number_of_unique_links_to_messages": 0,
+  "number_of_total_links_to_messages": 0,
+  "percentage": 0
+},{
+  "_id": {
+    "$oid": "61f3b95c22e4451882d88818"
+  },
+  "project_id": {
+    "$oid": "5beebd870da3ef21a62b756e"
+  },
+  "name": "commons-rdf",
+  "number_of_unique_links_to_messages": 0,
+  "number_of_total_links_to_messages": 0,
+  "percentage": 0
+},{
+  "_id": {
+    "$oid": "61f3b95c22e4451882d88819"
+  },
+  "project_id": {
+    "$oid": "5beebdd90da3ef21a62b756f"
+  },
+  "name": "commons-scxml",
+  "number_of_unique_links_to_messages": 0,
+  "number_of_total_links_to_messages": 0,
+  "percentage": 0
+},{
+  "_id": {
+    "$oid": "61f3b95d22e4451882d8881a"
+  },
+  "project_id": {
+    "$oid": "5bf29d060da3ef21a62b7570"
+  },
+  "name": "commons-validator",
+  "number_of_unique_links_to_messages": 0,
+  "number_of_total_links_to_messages": 0,
+  "percentage": 0
+},{
+  "_id": {
+    "$oid": "61f3b95d22e4451882d8881b"
+  },
+  "project_id": {
+    "$oid": "5bf29db50da3ef21a3a094b2"
+  },
+  "name": "commons-vfs",
+  "number_of_unique_links_to_messages": 0,
+  "number_of_total_links_to_messages": 0,
+  "percentage": 0
+},{
+  "_id": {
+    "$oid": "61f3b95e22e4451882d8881c"
+  },
+  "project_id": {
+    "$oid": "5bf51bf90da3ef21a2107884"
+  },
+  "name": "giraph",
+  "number_of_unique_links_to_messages": 7125,
+  "number_of_total_links_to_messages": 16614,
+  "percentage": 42.88551823763092
+},{
+  "_id": {
+    "$oid": "61f3b95f22e4451882d8881d"
+  },
+  "project_id": {
+    "$oid": "5c3f09db0da3ef512137483f"
+  },
+  "name": "manifoldcf",
+  "number_of_unique_links_to_messages": 11562,
+  "number_of_total_links_to_messages": 26869,
+  "percentage": 43.03100227027429
+},{
+  "_id": {
+    "$oid": "61f3b96122e4451882d8881e"
+  },
+  "project_id": {
+    "$oid": "5c4576f30da3ef08928c5fd7"
+  },
+  "name": "ranger",
+  "number_of_unique_links_to_messages": 9116,
+  "number_of_total_links_to_messages": 27266,
+  "percentage": 33.43358028313651
+},{
+  "_id": {
+    "$oid": "61f3b96222e4451882d8881f"
+  },
+  "project_id": {
+    "$oid": "5c5012230da3ef08914b280e"
+  },
+  "name": "eagle",
+  "number_of_unique_links_to_messages": 4256,
+  "number_of_total_links_to_messages": 12249,
+  "percentage": 34.74569352600213
+},{
+  "_id": {
+    "$oid": "61f3b96322e4451882d88820"
+  },
+  "project_id": {
+    "$oid": "5c87a7300da3ef6c8a4bf6d8"
+  },
+  "name": "commons-bcel",
+  "number_of_unique_links_to_messages": 0,
+  "number_of_total_links_to_messages": 2934,
+  "percentage": 0
+},{
+  "_id": {
+    "$oid": "61f3b96322e4451882d88821"
+  },
+  "project_id": {
+    "$oid": "5c87a9510da3ef6c89b69038"
+  },
+  "name": "commons-dbcp",
+  "number_of_unique_links_to_messages": 0,
+  "number_of_total_links_to_messages": 0,
+  "percentage": 0
+},{
+  "_id": {
+    "$oid": "61f3b96522e4451882d88822"
+  },
+  "project_id": {
+    "$oid": "5ca4c6b26bcebe2f4003c6e4"
+  },
+  "name": "zookeeper",
+  "number_of_unique_links_to_messages": 29776,
+  "number_of_total_links_to_messages": 90683,
+  "percentage": 32.835261294840265
+},{
+  "_id": {
+    "$oid": "61f3b96722e4451882d88823"
+  },
+  "project_id": {
+    "$oid": "5ca733460da3ef745ec4cc83"
+  },
+  "name": "phoenix",
+  "number_of_unique_links_to_messages": 33781,
+  "number_of_total_links_to_messages": 83127,
+  "percentage": 40.63781924043933
+},{
+  "_id": {
+    "$oid": "61f3b96822e4451882d88824"
+  },
+  "project_id": {
+    "$oid": "5cae08e00da3ef745f799438"
+  },
+  "name": "gora",
+  "number_of_unique_links_to_messages": 4504,
+  "number_of_total_links_to_messages": 12847,
+  "percentage": 35.05876858410524
+},{
+  "_id": {
+    "$oid": "61f3b96922e4451882d88825"
+  },
+  "project_id": {
+    "$oid": "5caee5640da3ef745ec4cc84"
+  },
+  "name": "santuario-java",
+  "number_of_unique_links_to_messages": 8,
+  "number_of_total_links_to_messages": 7977,
+  "percentage": 0.10028832894571893
+},{
+  "_id": {
+    "$oid": "61f3b96a22e4451882d88826"
+  },
+  "project_id": {
+    "$oid": "5cb58a500da3ef74602db8dd"
+  },
+  "name": "helix",
+  "number_of_unique_links_to_messages": 1328,
+  "number_of_total_links_to_messages": 9851,
+  "percentage": 13.48086488681352
+},{
+  "_id": {
+    "$oid": "61f3b96b22e4451882d88827"
+  },
+  "project_id": {
+    "$oid": "5cb58add0da3ef7463511086"
+  },
+  "name": "jena",
+  "number_of_unique_links_to_messages": 12724,
+  "number_of_total_links_to_messages": 57195,
+  "percentage": 22.246699886353703
+},{
+  "_id": {
+    "$oid": "61f3b96d22e4451882d88828"
+  },
+  "project_id": {
+    "$oid": "5cd27fe20da3ef671cda02e7"
+  },
+  "name": "httpcomponents-client",
+  "number_of_unique_links_to_messages": 9125,
+  "number_of_total_links_to_messages": 61833,
+  "percentage": 14.757491954134524
+},{
+  "_id": {
+    "$oid": "61f3b96d22e4451882d88829"
+  },
+  "project_id": {
+    "$oid": "5d8cb4a10da3ef0b68077801"
+  },
+  "name": "httpcomponents-core",
+  "number_of_unique_links_to_messages": 0,
+  "number_of_total_links_to_messages": 0,
+  "percentage": 0
+},{
+  "_id": {
+    "$oid": "61f3b96d22e4451882d8882a"
+  },
+  "project_id": {
+    "$oid": "5d91bbb20da3ef35cfd2f443"
+  },
+  "name": "streams",
+  "number_of_unique_links_to_messages": 1169,
+  "number_of_total_links_to_messages": 5526,
+  "percentage": 21.15454216431415
+},{
+  "_id": {
+    "$oid": "61f3b96e22e4451882d8882b"
+  },
+  "project_id": {
+    "$oid": "5d91bc110da3ef35ce147e4a"
+  },
+  "name": "samza",
+  "number_of_unique_links_to_messages": 23,
+  "number_of_total_links_to_messages": 11599,
+  "percentage": 0.1982929562893353
+},{
+  "_id": {
+    "$oid": "61f3b96f22e4451882d8882c"
+  },
+  "project_id": {
+    "$oid": "5d91bcdd0da3ef35d1432e3c"
+  },
+  "name": "roller",
+  "number_of_unique_links_to_messages": 27,
+  "number_of_total_links_to_messages": 17340,
+  "percentage": 0.15570934256055363
+},{
+  "_id": {
+    "$oid": "61f3b97122e4451882d8882d"
+  },
+  "project_id": {
+    "$oid": "5d9edd090da3ef03c84bcf46"
+  },
+  "name": "mina-sshd",
+  "number_of_unique_links_to_messages": 5003,
+  "number_of_total_links_to_messages": 49909,
+  "percentage": 10.024244124306238
+},{
+  "_id": {
+    "$oid": "61f3b97222e4451882d8882e"
+  },
+  "project_id": {
+    "$oid": "5da724f20da3ef03c84bcf48"
+  },
+  "name": "bigtop",
+  "number_of_unique_links_to_messages": 12241,
+  "number_of_total_links_to_messages": 34434,
+  "percentage": 35.549166521461345
+},{
+  "_id": {
+    "$oid": "61f3b97322e4451882d8882f"
+  },
+  "project_id": {
+    "$oid": "5db7e7440da3ef03c5c29845"
+  },
+  "name": "jackrabbit",
+  "number_of_unique_links_to_messages": 0,
+  "number_of_total_links_to_messages": 98462,
+  "percentage": 0
+},{
+  "_id": {
+    "$oid": "61f3b97522e4451882d88830"
+  },
+  "project_id": {
+    "$oid": "5e6f7e7e0da3ef2ed37503a8"
+  },
+  "name": "oozie",
+  "number_of_unique_links_to_messages": 25719,
+  "number_of_total_links_to_messages": 58868,
+  "percentage": 43.689270911191144
+},{
+  "_id": {
+    "$oid": "61f3b97622e4451882d88831"
+  },
+  "project_id": {
+    "$oid": "5e71c4d43c63727691322420"
+  },
+  "name": "activemq",
+  "number_of_unique_links_to_messages": 15871,
+  "number_of_total_links_to_messages": 128233,
+  "percentage": 12.376689307744497
+},{
+  "_id": {
+    "$oid": "61f3b97d22e4451882d88832"
+  },
+  "project_id": {
+    "$oid": "5e84988880c620a732667310"
+  },
+  "name": "maven",
+  "number_of_unique_links_to_messages": 3192,
+  "number_of_total_links_to_messages": 284694,
+  "percentage": 1.1212038188370672
+},{
+  "_id": {
+    "$oid": "61f3b97e22e4451882d88833"
+  },
+  "project_id": {
+    "$oid": "5f1050f2eafc140f94041bf7"
+  },
+  "name": "openjpa",
+  "number_of_unique_links_to_messages": 12485,
+  "number_of_total_links_to_messages": 41546,
+  "percentage": 30.05102777644057
+},{
+  "_id": {
+    "$oid": "61f3b97e22e4451882d88834"
+  },
+  "project_id": {
+    "$oid": "600331161b86c4258c362292"
+  },
+  "name": "directory-fortress-core",
+  "number_of_unique_links_to_messages": 0,
+  "number_of_total_links_to_messages": 1262,
+  "percentage": 0
+},{
+  "_id": {
+    "$oid": "61f3b98022e4451882d88835"
+  },
+  "project_id": {
+    "$oid": "6076b1088d56179891397c6f"
+  },
+  "name": "directory-studio",
+  "number_of_unique_links_to_messages": 7307,
+  "number_of_total_links_to_messages": 77913,
+  "percentage": 9.378409251344449
+},{
+  "_id": {
+    "$oid": "61f3b98122e4451882d88836"
+  },
+  "project_id": {
+    "$oid": "60814f734064fcb5083898b4"
+  },
+  "name": "xmlgraphics-batik",
+  "number_of_unique_links_to_messages": 350,
+  "number_of_total_links_to_messages": 29730,
+  "percentage": 1.1772620248906829
+},{
+  "_id": {
+    "$oid": "61f3b98222e4451882d88837"
+  },
+  "project_id": {
+    "$oid": "608b9b0227ad48a9ceb48654"
+  },
+  "name": "curator",
+  "number_of_unique_links_to_messages": 3852,
+  "number_of_total_links_to_messages": 15337,
+  "percentage": 25.11573319423616
+},{
+  "_id": {
+    "$oid": "61f3b98222e4451882d88838"
+  },
+  "project_id": {
+    "$oid": "608b9e8d4064fcb5083898b5"
+  },
+  "name": "directory-kerby",
+  "number_of_unique_links_to_messages": 24,
+  "number_of_total_links_to_messages": 1438,
+  "percentage": 1.6689847009735743
+},{
+  "_id": {
+    "$oid": "61f3b98422e4451882d88839"
+  },
+  "project_id": {
+    "$oid": "608c3a354064fcb5083898b6"
+  },
+  "name": "fineract",
+  "number_of_unique_links_to_messages": 984,
+  "number_of_total_links_to_messages": 15239,
+  "percentage": 6.457116608701359
+},{
+  "_id": {
+    "$oid": "61f3b98422e4451882d8883a"
+  },
+  "project_id": {
+    "$oid": "60a24a6992d37bcecc65bf82"
+  },
+  "name": "cxf-fediz",
+  "number_of_unique_links_to_messages": 0,
+  "number_of_total_links_to_messages": 0,
+  "percentage": 0
+},{
+  "_id": {
+    "$oid": "61f3b98422e4451882d8883b"
+  },
+  "project_id": {
+    "$oid": "60a24a978d56179891397c71"
+  },
+  "name": "freemarker",
+  "number_of_unique_links_to_messages": 37,
+  "number_of_total_links_to_messages": 2583,
+  "percentage": 1.4324428958575302
+},{
+  "_id": {
+    "$oid": "61f3b98522e4451882d8883c"
+  },
+  "project_id": {
+    "$oid": "60a24ac427ad48a9ceb48656"
+  },
+  "name": "openwebbeans",
+  "number_of_unique_links_to_messages": 4557,
+  "number_of_total_links_to_messages": 17394,
+  "percentage": 26.198689203173508
+}]
